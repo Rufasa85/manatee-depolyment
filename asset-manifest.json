@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manatee-depolyment/static/css/main.584f321a.chunk.css",
+    "main.js": "/manatee-depolyment/static/js/main.acf2f888.chunk.js",
+    "main.js.map": "/manatee-depolyment/static/js/main.acf2f888.chunk.js.map",
+    "runtime~main.js": "/manatee-depolyment/static/js/runtime~main.e3b7b656.js",
+    "runtime~main.js.map": "/manatee-depolyment/static/js/runtime~main.e3b7b656.js.map",
+    "static/js/2.b41502e9.chunk.js": "/manatee-depolyment/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/manatee-depolyment/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/manatee-depolyment/index.html",
+    "precache-manifest.33e106db02cefb35494e8fcd3ed8a830.js": "/manatee-depolyment/precache-manifest.33e106db02cefb35494e8fcd3ed8a830.js",
+    "service-worker.js": "/manatee-depolyment/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/manatee-depolyment/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/manatee-depolyment/static/media/logo.5d5d9eef.svg"
+  }
+}
